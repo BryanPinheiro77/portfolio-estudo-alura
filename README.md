@@ -36,7 +36,7 @@ Este repositório contém um projeto de site de portfólio desenvolvido com **HT
 ## 📁 Como rodar o projeto localmente
 
 ```bash
-git clone https://github.com/BryanPinheiro77/portfolio.git
+git clone https://github.com/BryanPinheiro77/portfolio-estudo-alura
 cd portfolio
 Depois, abra o arquivo index.html com seu navegador preferido.
 
