@@ -2,7 +2,7 @@
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![Status do Projeto](https://img.shields.io/badge/STATUS-EM%20FINALIZADO-yellow?style=for-the-badge)](#)
+[![Status do Projeto](https://img.shields.io/badge/STATUS-FINALIZADO-yellow?style=for-the-badge)](#)
 [![Deploy Vercel](https://img.shields.io/badge/Vercel-online-black?style=for-the-badge&logo=vercel)](https://portfolio-eta-blue-58.vercel.app/index.html)
 
 Este repositório contém um projeto de site de portfólio desenvolvido com **HTML** e **CSS**, como parte da prática dos conteúdos aprendidos nos cursos da [Alura](https://www.alura.com.br/).  
